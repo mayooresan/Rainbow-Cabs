@@ -1,0 +1,5 @@
+E:\Mayoo\Dropbox\BCS Project\Source\Rainbow Cabs\DBLayer\bin\Debug\DBLayer.dll
+E:\Mayoo\Dropbox\BCS Project\Source\Rainbow Cabs\DBLayer\bin\Debug\DBLayer.pdb
+E:\Mayoo\Dropbox\BCS Project\Source\Rainbow Cabs\DBLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Mayoo\Dropbox\BCS Project\Source\Rainbow Cabs\DBLayer\obj\Debug\DBLayer.dll
+E:\Mayoo\Dropbox\BCS Project\Source\Rainbow Cabs\DBLayer\obj\Debug\DBLayer.pdb
