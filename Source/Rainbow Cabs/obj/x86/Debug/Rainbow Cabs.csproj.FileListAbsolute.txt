@@ -15,3 +15,15 @@ E:\Mayoo\Dropbox\BCS Project\Source\Rainbow Cabs\Rainbow Cabs\bin\Debug\Business
 C:\Users\Mayu\Rainbow-Cabs\Rainbow-Cabs\Source\Rainbow Cabs\bin\Debug\Rainbow Cabs.exe.config
 C:\Users\Mayu\Rainbow-Cabs\Rainbow-Cabs\Source\Rainbow Cabs\obj\x86\Debug\Rainbow Cabs.exe
 C:\Users\Mayu\Rainbow-Cabs\Rainbow-Cabs\Source\Rainbow Cabs\obj\x86\Debug\Rainbow Cabs.pdb
+C:\Users\Mayu\Rainbow-Cabs\Rainbow-Cabs\Source\Rainbow Cabs\bin\Debug\Rainbow Cabs.exe
+C:\Users\Mayu\Rainbow-Cabs\Rainbow-Cabs\Source\Rainbow Cabs\bin\Debug\Rainbow Cabs.pdb
+C:\Users\Mayu\Rainbow-Cabs\Rainbow-Cabs\Source\Rainbow Cabs\bin\Debug\BusinessLayer.dll
+C:\Users\Mayu\Rainbow-Cabs\Rainbow-Cabs\Source\Rainbow Cabs\bin\Debug\BusinessLayer.pdb
+C:\Users\Mayu\Rainbow-Cabs\Rainbow-Cabs\Source\Rainbow Cabs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mayu\Rainbow-Cabs\Rainbow-Cabs\Source\Rainbow Cabs\obj\x86\Debug\Rainbow_Cabs.CabLocation.resources
+C:\Users\Mayu\Rainbow-Cabs\Rainbow-Cabs\Source\Rainbow Cabs\obj\x86\Debug\Rainbow_Cabs.Login.resources
+C:\Users\Mayu\Rainbow-Cabs\Rainbow-Cabs\Source\Rainbow Cabs\obj\x86\Debug\Rainbow_Cabs.Management_Panel.resources
+C:\Users\Mayu\Rainbow-Cabs\Rainbow-Cabs\Source\Rainbow Cabs\obj\x86\Debug\Rainbow_Cabs.Properties.Resources.resources
+C:\Users\Mayu\Rainbow-Cabs\Rainbow-Cabs\Source\Rainbow Cabs\obj\x86\Debug\Rainbow_Cabs.ServiceDesk.resources
+C:\Users\Mayu\Rainbow-Cabs\Rainbow-Cabs\Source\Rainbow Cabs\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mayu\Rainbow-Cabs\Rainbow-Cabs\Source\Rainbow Cabs\obj\x86\Debug\GenerateResource.write.1.tlog

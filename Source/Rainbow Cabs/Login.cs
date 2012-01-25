@@ -23,13 +23,17 @@ namespace Rainbow_Cabs
 
         private void Loginbutton_Click(object sender, EventArgs e)
         {
+            //mock validation
             if (UserNametextBox.Text == String.Empty || PasswordtextBox.Text == String.Empty)
             {
                 MessageBox.Show("Please enter the User Name and Password", "User Name or Password Missing", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
             }
 
-            ServiceDesk servicedeskfrm = new ServiceDesk();
-            servicedeskfrm.Show();
+            //ServiceDesk servicedeskfrm = new ServiceDesk();
+            //servicedeskfrm.Show();
+
+            Management_Panel managementPanel = new Management_Panel();
+            managementPanel.Show();
             this.Hide();
 
            
