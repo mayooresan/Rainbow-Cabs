@@ -9,24 +9,21 @@ using System.Windows.Forms;
 
 namespace Rainbow_Cabs
 {
-    public partial class Management_Panel : Form
+    public partial class VehicleManagement : Form
     {
-        public Management_Panel()
+        public VehicleManagement()
         {
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            AddVehicles vm = new AddVehicles();
-            vm.Show();
-        }
-
-        private void Management_Panel_Load(object sender, EventArgs e)
+        private void btnAddVehicle_Click(object sender, EventArgs e)
         {
 
         }
 
-        
+        private void button3_Click(object sender, EventArgs e)
+        {
+           
+        }
     }
 }

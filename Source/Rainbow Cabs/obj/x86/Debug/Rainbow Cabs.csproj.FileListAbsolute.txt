@@ -27,3 +27,5 @@ C:\Users\Mayu\Rainbow-Cabs\Rainbow-Cabs\Source\Rainbow Cabs\obj\x86\Debug\Rainbo
 C:\Users\Mayu\Rainbow-Cabs\Rainbow-Cabs\Source\Rainbow Cabs\obj\x86\Debug\Rainbow_Cabs.ServiceDesk.resources
 C:\Users\Mayu\Rainbow-Cabs\Rainbow-Cabs\Source\Rainbow Cabs\obj\x86\Debug\GenerateResource.read.1.tlog
 C:\Users\Mayu\Rainbow-Cabs\Rainbow-Cabs\Source\Rainbow Cabs\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mayu\Rainbow-Cabs\Rainbow-Cabs\Source\Rainbow Cabs\obj\x86\Debug\Rainbow_Cabs.VehicleManagement.resources
+C:\Users\Mayu\Rainbow-Cabs\Rainbow-Cabs\Source\Rainbow Cabs\obj\x86\Debug\Rainbow_Cabs.AddVehicles.resources

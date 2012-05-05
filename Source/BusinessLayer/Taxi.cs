@@ -8,6 +8,10 @@ namespace BusinessLayer
 {
     public class Taxi
     {
+        public String addTaxi()
+        {
+            return "Taxi Added";
+        }
         public void WriteHtml(String Maps)
         {
             string htmlDocument = @"<html><body><img src=" + Maps + "></body></html>";
